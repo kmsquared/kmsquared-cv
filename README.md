@@ -1,3 +1,5 @@
-# kmsquared-cv
+Resume for Christopher McMillan
 
-Resume of Christopher McMillan
+> [Download PDF](resume.pdf)  
+> [LinkedIn](https://www.linkedin.com/in/kmsquared)  
+> [Website](http://www.kmsquared.net)
