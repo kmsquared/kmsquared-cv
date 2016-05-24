@@ -1,5 +1,5 @@
 # Christopher McMillan
-## Full-Stack Web Developer, Software Engineer
+## Full-Stack Web Developer
 
 > [Download PDF](resume.pdf)
 
