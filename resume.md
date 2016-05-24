@@ -1,7 +1,9 @@
 # Christopher McMillan
 ## Full-Stack Web Developer
 
-> [Download PDF](resume.pdf)
+> [Download PDF](resume.pdf)  
+> [LinkedIn](https://www.linkedin.com/in/kmsquared)  
+> [Website](http://www.kmsquared.net)
 
 ---
 
