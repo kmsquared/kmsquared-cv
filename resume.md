@@ -11,18 +11,18 @@
 
 * **Programming** - Architected, built, and scaled various web applications including advertising & marketing platforms; e-commerce solutions; content management systems; reporting platforms; web APIs; and client websites.
 * **Design** - Designed and coded admin interfaces; reporting dashboards; and responsive web layouts.
-* **Data** -  Configured, optimized, and maintained databases with large data sets; implemented backup & recovery strategies; and interfaced with third-party analytics platforms.
-* **System Administration** - Installed, deployed, and maintained linux web servers; utilized AWS for elastic load balancing, content delivery networks, and virtual private networks.
+* **Data** -  Configured, optimized, and maintained databases and data warehouses; implemented backup & recovery strategies; and interfaced with third-party analytics platforms.
+* **System Administration** - Installed, deployed, and maintained multi-server web environments; utilized AWS for elastic load balancing, content delivery networks, and virtual private networks.
 
 ---
 
 ###  Skills
 
-* **Languages** - PHP, HTML, CSS, Javascript, jQuery, SQL
+* **Languages** - PHP, HTML, CSS, Javascript, jQuery, SQL, XML, Python
 * **Data** - MySQL, Redshift, Redis, Memcache
 * **Systems** - Linux, Apache, Nginx, Amazon Web Services
-* **Tools & Frameworks** - PhalconPHP, Zend Framework, Bootstrap, Mustache, Composer, NPM, Grunt, Gulp, Bower
-* **Software** - Adobe Photoshop
+* **Tools & Frameworks** - Git, SVN, PhalconPHP, Zend Framework, Bootstrap, Mustache, Composer, NPM, Grunt, Gulp, Bower, Django
+* **Software** - Adobe Photoshop, Tableau, Mixpanel, Customer.io, Google Analytics, Mailchimp, Sendgrid, Shopify
 
 ---
 
@@ -37,16 +37,16 @@
 
 * **Lead Software Engineer at Adlogica** - October 2011 - March 2015
   * Led the application design, architecture design and implementation of company's advertising platform and content management system. Scaled systems to support 1.5 million requests daily. Helped scale revenues 10X from $3 million to $30+ million yearly.
-  * Implemented and managed infrastructure using Amazon Web Services (ELB, EC2, RDS, Redshift, ElastiCache, SQS, S3)
+  * Implemented and managed multi-server infrastructure using Amazon Web Services (ELB, EC2, RDS, Redshift, ElastiCache, SQS, S3)
   * Built automated backend systems for analytics and reporting using Amazon Redshift to interface with Mixpanel and Tableau.
   * Built internal systems to support A/B testing and increase performance optimization.
 
 
 * **Software Engineer at Buysight (aquired by AOL)** - June 2010 - October 2011
-  * Lead the application design, architecture design and implementation of company's advertising platform and content management system. Scaled systems to support 1.5 million requests daily. Helped scale revenues 10X from $3 million to $30+ million yearly.
-  * Implemented and managed infrastructure using Amazon Web Services (ELB, EC2, RDS, Redshift, ElastiCache, SQS, S3)
-  * Built automated backend systems for analytics and reporting using Amazon Redshift to interface with Mixpanel and Tableau.
-  * Built internal systems to support A/B testing and increase performance optimization.
+  * Led the design and implementation of static and dynamic ad creatives. 
+  * Architected and built a framework to streamline ad creative creation and uploads to decrease partner on-boarding time.
+  * Designed and implemented the front-end of administrative and client-facing portal - some features including campaign management, ad creative management, and reporting.
+  * Worked closely with the Product Design team; prototyped and created mock-ups of various new products and features.
 
 
 * **Web Developer at Digital Playground** - June 2009 - May 2010
