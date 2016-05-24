@@ -1,5 +1,5 @@
 Resume for Christopher McMillan
 
-> [Download PDF](resume.pdf)  
+> [View Resume](resume.md)
 > [LinkedIn](https://www.linkedin.com/in/kmsquared)  
 > [Website](http://www.kmsquared.net)
