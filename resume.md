@@ -1,9 +1,7 @@
 # Christopher McMillan
-## Full-Stack Web Developer
+## Full-Stack Web Developer, Software Engineer
 
-> [Download PDF](resume.pdf)  
-> [chris@kmsquared.net](chris@kmsquared.net)  
-> (661) 333-7668
+> [Download PDF](resume.pdf)
 
 ---
 
@@ -21,17 +19,17 @@
 * **Languages** - PHP, HTML, CSS, Javascript, jQuery, SQL, XML, Python
 * **Data** - MySQL, Redshift, Redis, Memcache
 * **Systems** - Linux, Apache, Nginx, Amazon Web Services
-* **Tools & Frameworks** - Git, SVN, PhalconPHP, Zend Framework, Bootstrap, Mustache, Composer, NPM, Grunt, Gulp, Bower, Django
+* **Tools & Frameworks** - Git, SVN, PhalconPHP, Zend Framework, Bootstrap, Mustache, Composer, npm, Grunt, Gulp, Bower, Django
 * **Software** - Adobe Photoshop, Tableau, Mixpanel, Customer.io, Google Analytics, Mailchimp, Sendgrid, Shopify
 
 ---
 
-### Experience
+### Work History
 
 * **Head of Technology at SAY** - July 2015 - Present
   * Built customized marketing and e-commerce platforms to drive lead generation, promote virality, and accept customer orders.
   * Configured and launched e-commerce storefront on Shopify platform. 
-  * Implemented analytics for targeted email drip campaigns; social login and sharing; responsive front-end markup; scaleable AWS infrastructure.
+  * Implemented analytics for targeted email drip campaigns; social login and sharing; responsive front-end markup; scalable AWS infrastructure.
   * Tested, evaluated, and implemented APIs for multiple web services for business operations.
 
 
@@ -42,7 +40,7 @@
   * Built internal systems to support A/B testing and increase performance optimization.
 
 
-* **Software Engineer at Buysight (aquired by AOL)** - June 2010 - October 2011
+* **Software Engineer at Buysight (acquired by AOL)** - June 2010 - October 2011
   * Led the design and implementation of static and dynamic ad creatives. 
   * Architected and built a framework to streamline ad creative creation and uploads to decrease partner on-boarding time.
   * Designed and implemented the front-end of administrative and client-facing portal - some features including campaign management, ad creative management, and reporting.
@@ -85,3 +83,13 @@
 
 * **A.S, Software Applications and Programming at ITT Technical Institute** - 2004 - 2007
     * Graduated as Salutatorian
+
+---
+
+### Honors & Awards
+
+* Bank of America Technology Award (2004)
+* US First Robotics (2004) - Best Website Award
+* FBLA Web Programming Competition (2003-2004) - 2nd place
+* Valley Industrial Association, Business Website Competition (2004) - 1st/Best Overall
+* Valley Industrial Association, Business Website Competition (2003) - 1st/Best Overall
