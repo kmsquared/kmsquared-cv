@@ -21,8 +21,8 @@
 * **Languages** - PHP, HTML, CSS, Javascript, jQuery, SQL, XML, Python
 * **Data** - MySQL, Redshift, Redis, Memcache
 * **Systems** - Linux, Apache, Nginx, Amazon Web Services
-* **Tools & Frameworks** - Git, SVN, PhalconPHP, Zend Framework, Bootstrap, SASS, Mustache, Composer, npm, Grunt, Gulp, Bower, Django
-* **Software** - Adobe Photoshop, Tableau, Mixpanel, Customer.io, Google Analytics, Mailchimp, Sendgrid, Shopify
+* **Tools & Frameworks** - Git, SVN, PhalconPHP, Zend Framework, Django, Vue.js, Bootstrap, SASS, Composer, npm, Gulp, Bower
+* **Software** - Adobe Photoshop, Mixpanel, Stripe, Twilio, Tableau, Customer.io, Google Analytics, Mailchimp, Sendgrid, Shopify
 
 ---
 
