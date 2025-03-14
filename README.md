@@ -17,17 +17,22 @@
 
 ###  Skills
 
-* **Languages** - Ruby, Python, PHP, HTML, CSS, Javascript, SQL
-* **Data** - Postgres, MySQL, Redshift, Redis, Memcache, BigQuery
-* **Systems** - Docker, AWS, Linux, Apache, Nginx
-* **Tools & Frameworks** - Rails, Django, React, PhalconPHP, Zend Framework, Vue.js
-* **Software** - Adobe Photoshop, Mode, Mixpanel, Stripe, Twilio, Tableau, Customer.io, Google Analytics, Salesforce, Shopify
+* **Languages** - Python, Node.js, Ruby, PHP, HTML, CSS, Javascript, SQL
+* **Data** - Postgres, MySQL, BigQuery, Redshift, Redis, Memcache
+* **Systems** - AWS, Docker, Kubernetes, Linux, Apache, Nginx
+* **Frameworks** - React, Flask, Next.js, Django, Rails, PhalconPHP, Zend Framework, Vue.js
+* **Creative** - Figma, Photoshop, Illustrator
+* **Analytics** - Segment, Mixpanel, Tableau, Google Analytics
+* **Marketing** - Twilio, Customer.io
+* **Sales** - Salesforce, Stripe, Shopify
 
 ---
 
 ### Work History
 
-* **Manager, Lead Software Engineer at Juul Labs** - Dec 2017 - Present
+* **VP of Growth at Doorstead** - September 2021 - Present
+
+* **Manager, Lead Software Engineer at Juul Labs** - December 2017 - September 2021
 
 * **Senior Software Engineer at Zenefits** - August 2016 - December 2017
 
